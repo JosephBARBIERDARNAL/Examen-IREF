@@ -2,4 +2,4 @@
 
 Quiz for IREF Masters students. Check out: https://iref-examen.streamlit.app/
 
-![](demo.gif)
+![](img/demo.gif)
